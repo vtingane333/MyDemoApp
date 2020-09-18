@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
 
 	//1st Toast
         Toast.makeText(this, "Hello World", Toast.LENGTH_LONG).show()
+
+//comment added
     }
 
 }
